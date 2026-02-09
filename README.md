@@ -1,11 +1,12 @@
 # Super Quant Coders – Technical Club Website
 
-This repository contains a multi-page static website created for **Super Quant Coders**, the technical club of **NIT Jalandhar**.
+This repository contains a multi-page static website developed for **Super Quant Coders**, the technical club of **Dr B R Ambedkar National Institute of Technology (NIT), Jalandhar**.
 
-The website showcases the club’s activities, events, achievements, team members, and a special highlight on the **Chi-Chi (Robotic Dog) event**. Each section is built as a separate HTML page with embedded CSS and animations to deliver a modern and professional user experience.
+The website presents the club’s vision, technical events, achievements, team members, and a featured showcase of the **Chi-Chi (Robotic Dog) event**. All pages are built using HTML with embedded CSS and JavaScript to deliver a modern, interactive, and professional experience.
 
 ## 📂 Pages Included
 - Home (`index.html`)
+- Alternate Main Layout (`super-quant-coders-website.html`)
 - Events (`events.html`)
 - Chi-Chi Robotics Event (`chichi.html`)
 - Team (`team.html`)
@@ -14,17 +15,20 @@ The website showcases the club’s activities, events, achievements, team member
 
 ## 🛠 Technologies Used
 - HTML5  
-- CSS3 (embedded)  
-- JavaScript (embedded)
+- CSS3 (embedded styles)  
+- JavaScript (embedded scripts)
 
 ## 🚀 How to Run
-Simply open `index.html` in any modern web browser (Chrome recommended).
+Open `index.html` or `super-quant-coders-website.html` in any modern web browser (Chrome recommended).
+
+## 👤 About the Creator
+**Yuvraj Shah**  
+Undergraduate student at **NIT Jalandhar**  
+Branch: **Data Science and Engineering**
 
 ## 🎯 Purpose
-Developed as a **contest submission** to represent the technical culture, innovation, and events of Super Quant Coders.
+Created as a **website development contest submission** to represent the technical culture, innovation, and student-led initiatives of Super Quant Coders.
 
 ---
 
 © Super Quant Coders | NIT Jalandhar
-# SQC_website
-sqc induction nitj contest
